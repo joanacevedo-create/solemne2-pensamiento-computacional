@@ -69,4 +69,8 @@ El comportamiento de la arquitectura de software y el flujo de ejecución jerár
 [IMAGEN](<img width="1024" height="1536" alt="Diagrama_de_flujo png" src="https://github.com/user-attachments/assets/39894fd3-7c13-4716-bccf-d5fb17ce0f2a" /><img width="1024" height="1536" alt="Diagrama_de_flujo png" src="https://github.com/user-attachments/assets/158ad1e8-0db1-43c2-b180-adeab6e15348" />)
 [IMAGEN][diagrama_flujo_tokyo_zen.pdf](https://github.com/user-attachments/files/28161211/diagrama_flujo_tokyo_zen.pdf)
 
+##Enlaces del Proyecto
+* **Sketch Ejecutable (Pantalla Completa):** [(https://editor.p5js.org/joan.acevedo/full/3a3sU4kKB)]
+* **Código Fuente Editable (Editor p5.js):** [(https://editor.p5js.org/joan.acevedo/sketches/3a3sU4kKB)]
+
 
